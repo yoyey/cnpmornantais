@@ -1,0 +1,28 @@
+title = "CNPM"
+languageCode = "fr-fr"
+theme = "cnpm"
+canonifyurls = true
+paginate = 10
+copyright = "Code released under the Apache 2.0 license."
+
+[author]
+    name = "cnpm"
+
+[params]
+  DateForm = "Mon, 2 Jan, 2006"
+  Description = "Cercle des Nageurs du pays Mornantais"
+  Author = "cnpm"
+  email = "cnpmornantais@gmail.com"
+  Ganalytics = "XX-00000000-0"
+
+[[params.social]]
+    title = "twitter"
+    url = "https://twitter.com/humboldtux"
+[[params.social]]
+    title = "github"
+    url = "https://github.com/humboldtux"
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/FACEBOOKHANDLE"
+
+
