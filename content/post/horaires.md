@@ -1,10 +1,10 @@
 +++
-Description = "Nous avons mis en ligne les nouveaux horaires"
+Description = "Retrouvez les horaires de la saison 2016-2017"
 date = "2016-10-03T13:58:39+02:00"
-title = "Horaires des différents cours"
+title = "Horaires des cours"
 +++
 
-<p> Horaire des différents cours </p>
+<p> Horaires des cours : </p>
 <table class="table table-striped">
 <thead>
 <tr>
@@ -15,67 +15,70 @@ title = "Horaires des différents cours"
 <tbody>
 <tr>
 <td>Aqua découverte</td>
-<td>samedi de 16h à 17h</td>
+<td>samedi de 16 h à 17 h</td>
 </tr>
-
 <tr>
 <td>ENF1</td>
-<td>jeudi de 17h à 18h</br>
-Vendredi de 17h à 18h
+<td>jeudi de 17 h à 18 h</br>
+Vendredi de 17 h à 18 h
 </td>
 </tr>
 <tr>
 <td>ENF2</td>
-<td>Mercredi de 15H à 16H30</td>
+<td>mercredi de 15 h à 16 h 30</td>
 </tr>
 <tr>
 <td>ENF3</td>
-<td>Mercredi de 16H30 à 18H</td>
+<td>mercredi de 16 h 30 à 18 h</td>
 </tr>
 <tr >
 <td>compétition</td>
-<td>Lundi de 18H à 19H30</br>
-Mercredi de 18H à 19H30</br>
-Jeudi de 18H à 19H30</br>
-Vendredi de 18H à 19H30
+<td>lundi de 18 h à 19 h 30</br>
+mercredi de 18 h à 19 h 30</br>
+jeudi de 18 h à 19 h 30</br>
+vendredi de 18 h à 19 h 30
 </td>
 </tr>
 <tr>
 <td>BNSSA</td>
-<td>Mercredi de 19H30 à 21H30</td>
+<td>Mercredi de 19 h 30 à 21 h 30</td>
 </tr>
 <tr>
 <td>Maître</td>
-<td>Mercredi de 19H30 à 21H30</td>
+<td>Mercredi de 19 h 30 à 21 h 30</td>
+</tr>
+<tr>
+<td>Loisirs</td>
+<td>Jeudi de 19 h 30 à 20 h 30</td>
 </tr>
 <tr>
 <td>Synchro - Neptune</td>
-<td>Mardi de 18H à 19H30</br>
-Samedi de 13H à 14H30
+<td>Mardi de 17 h à 18 h</br>
+Samedi de 16 h à 17 h
 </td>
 </tr>
 <tr>
 <td>Synchro - Marsouin</td>
-<td>Mardi de 18H à 19H30</br>
-Samedi de 13H à 14H30
-</td>
-</tr>
-<tr>
-<td>Synchro - Aurora</td>
-<td>Mardi de 19H30 à 21H30</br>
-Samedi de 14H à 16H
-</td>
-</tr>
-<tr>
-<td>Synchro - Barracuda</td>
-<td>Mardi de 19H30 à 21H30</br>
-Samedi de 14H à 16H
+<td>Mardi de 18 h à 19 h 30</br>
+Samedi de 13 h à 14 h 30
 </td>
 </tr>
 <tr>
 <td>Synchro - Ibis</td>
-<td>Mardi de 18H à 19H30</br>
-Samedi de 13H30 à 15H
+<td>Mardi de 18 h à 19 h 30</br>
+Samedi de 13 h 30 à 15 h
+</td>
+</tr>
+<tr>
+<td>Synchro - Barracuda</td>
+<td>Mardi de 19 h 30 à 21 h 30</br>
+Samedi de 14 h 30 à 16 h
+</td>
+</tr>
+<tr>
+<td>Synchro - Aurora</td>
+<td>Mardi de 19 h 30 à 21 h 30</br>
+Samedi de 14 h 30 à 16 h
 </td>
 </tr>
 </tbody>

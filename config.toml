@@ -1,3 +1,4 @@
+baseurl = "http://ydiruzza.free.fr/"
 title = "CNPM"
 languageCode = "fr-fr"
 theme = "cnpm"
@@ -10,7 +11,7 @@ copyright = "Code released under the Apache 2.0 license."
 
 [params]
   DateForm = "Mon, 2 Jan, 2006"
-  Description = "Cercle des Nageurs du pays Mornantais"
+  Description = "Cercle des nageurs du pays mornantais"
   Author = "cnpm"
   email = "cnpmornantais@gmail.com"
   Ganalytics = "XX-00000000-0"

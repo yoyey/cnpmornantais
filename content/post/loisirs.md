@@ -1,21 +1,21 @@
 +++
-Description = "Nous ouvrons un nouveau créneau loisirs"
+Description = "Cours de natation adultes/ados"
 date = "2016-10-03T13:58:39+02:00"
 title = "Loisirs"
 +++
 
 # Cours de natation adulte
-## Remise en forme, Renforcement musculaire, Loisirs
+## Remise en forme, renforcement musculaire, loisirs
 
-**Tous Niveaux** : Vous savez plus ou moins bien nager et vous voulez vous
-améliorer ou vous savez naer et vous voulez vous entretenir.
+**Tous niveaux** : vous savez plus ou moins bien nager et vous voulez vous
+améliorer ou vous savez nager et vous voulez vous entretenir.
 
-Le **CNPM** vous propose des cours de natation adulte (ados sont les bienvenues)
+Le **CNPM** vous propose des cours de natation adulte (les ados sont les bienvenus).
 
-Vous serez encadré par des entraineurs diplômés.
+Les cours sont encadrés par des entraîneurs diplômés.
 
-Si vous voulez nager plus intensément, vous pouvez vous inscrire aux séances
-d'entraînements des maîtres les mercredis soirs de 19H30 à 21H30.
+Si vous souhaiter nager plus intensément, vous pouvez vous inscrire aux séances
+d'entraînements des maîtres les mercredis soirs de 19 h 30 à 21 h 30.
 
-Pour vous inscrire, envoyé un mail à [CNPM](mailto:cnpmornantais@gmail.com)
+Pour vous inscrire, envoyez un mail à [CNPM](mailto:cnpmornantais@gmail.com)
 
