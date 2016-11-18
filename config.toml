@@ -16,4 +16,6 @@ copyright = "Code released under the Apache 2.0 license."
   email = "cnpmornantais@gmail.com"
   Ganalytics = "XX-00000000-0"
 
-
+[[params.social]]
+  title = "github"
+  url = "https://github.com/yoyey/cnpmornatais"
