@@ -33,7 +33,7 @@ Nos tarifs :
 </tr>
 <tr>
 <td>Groupe loisirs</td>
-<td>220 €</td>
+<td>190 €</td>
 </tr>
 <tr>
 <td>Synchro Neptune</td>
