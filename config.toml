@@ -14,8 +14,8 @@ copyright = "Code released under the Apache 2.0 license."
   Description = "Cercle des nageurs du pays mornantais"
   Author = "cnpm"
   email = "cnpmornantais@gmail.com"
-  Ganalytics = "XX-00000000-0"
+  Ganalytics = "UA-87654846-1"
 
 [[params.social]]
   title = "github"
-  url = "https://github.com/yoyey/cnpmornatais"
+  url = "https://github.com/yoyey/cnpmornantais"
