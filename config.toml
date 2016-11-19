@@ -13,7 +13,7 @@ copyright = "Code released under the Apache 2.0 license."
   DateForm = "Mon, 2 Jan, 2006"
   Description = "Cercle des nageurs du pays mornantais"
   Author = "cnpm"
-  email = "cnpmornantais@gmail.com"
+  email = "contact@cnpmornantais.fr"
   Ganalytics = "UA-87654846-1"
 
 [[params.social]]
