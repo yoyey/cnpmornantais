@@ -25,11 +25,13 @@ Vendredi de 17 h à 18 h
 </tr>
 <tr>
 <td>ENF2</td>
-<td>mercredi de 15 h à 16 h 30</td>
+<td>lundi de 17 h à 18 h</br>
+mercredi de 15 h à 16 h 30</td>
 </tr>
 <tr>
 <td>ENF3</td>
-<td>mercredi de 16 h 30 à 18 h</td>
+<td>lundi de 17 h à 18 h</br>
+mercredi de 16 h 30 à 18 h</td>
 </tr>
 <tr >
 <td>compétition</td>
@@ -65,7 +67,7 @@ Samedi de 13 h à 14 h 30
 </tr>
 <tr>
 <td>Synchro - Ibis</td>
-<td>Mardi de 18 h à 19 h 30</br>
+<td>Mardi de 19 h à 20 h 30</br>
 Samedi de 13 h 30 à 15 h
 </td>
 </tr>

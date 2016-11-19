@@ -30,7 +30,7 @@ favorise son transfert dans une autre discipline.
 # ENF3 - Pass’compétition
 Cette troisième étape garantit à son titulaire la
 capacité de se confronter aux autres, la connaissance des
-règles, la maîtrise de toutes les techniques.. Il s’agit ici de ne
+règles, la maîtrise de toutes les techniques. Il s’agit ici de ne
 pas confondre confrontation et performance.
 Cette dernière notion étant une expression intime de la
 personne.

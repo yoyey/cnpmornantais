@@ -5,7 +5,7 @@ title = "Natation synchronisée"
 weight = -140
 +++
 
-la natation synchronisée associe la natation, la danse, la gymnastique et le
+La natation synchronisée associe la natation, la danse, la gymnastique et le
 sens du rythme;
 Il est impératif de maîtriser le crawl, la brasse et le dos crawlé avant de
 pouvoir démarrer.
