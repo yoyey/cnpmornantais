@@ -1,4 +1,4 @@
-baseurl = "http://cnpmornantais.fr"
+baseurl = "https://cnpmornantais.fr"
 title = "CNPM"
 languageCode = "fr-fr"
 theme = "cnpm"
