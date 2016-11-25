@@ -1,4 +1,4 @@
-# Web site for the cnpmornatais association
+# Web site for the cnpmornantais association
 
 ## Dependencies
 
