@@ -54,6 +54,7 @@ Pour vous inscrire, vous pouvez télécharger les documents suivants :
 * [Télécharger le règlement intérieur](/pdf/reglementinterieur2016.pdf)
 * [Télécharger le formulaire de licence ffn 2017](/pdf/formulairelicence2017.pdf)
 
-Déposez ensuite l'ensemble des documents au 14 rue boiron 69440 Mornant, dans la boite aux lettres cnpm
+Déposez ensuite l'ensemble des documents ainsi qu'un certificat médical mentionnant l'absence de contre-indication
+à la pratique sportive en compétition au 14 rue boiron 69440 Mornant, dans la boite aux lettres cnpm
 
 
