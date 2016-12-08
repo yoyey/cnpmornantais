@@ -1,6 +1,6 @@
 baseurl = "https://cnpmornantais.fr"
 title = "CNPM"
-languageCode = "fr-fr"
+languageCode = "fr"
 theme = "cnpm"
 canonifyurls = true
 paginate = 10
