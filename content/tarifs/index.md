@@ -17,7 +17,7 @@ Nos tarifs :
 <tbody>
 <tr>
 <td>Aqua découverte</td>
-<td>100 € (par trimestre)</td>
+<td>100 € (pour 10 séances)</td>
 </tr>
 <tr>
 <td>Ecole de natation</td>
