@@ -21,9 +21,15 @@
         <div class="col-md-10 col-md-offset-1">
           <img src="/img/cnpmornantais.jpg" class="img-responsive img-center" align="middle" alt="Cercle des Nageurs du Pays Mornantais">
 
-          {{ range first 4 (where .Data.Pages "Type" "post") }}
+          {{ range first 10 (where .Data.Pages "Type" "post") }}
               {{ .Render "summary"}}
           {{ end }}
+           <!-- Pager -->
+          <ul class="pager">
+            <li class="next">
+              <a href="{{ .Site.BaseURL }}/post/">Older Posts &rarr;</a>
+            </li>
+          </ul>
         </div>
       </div>
     </div>

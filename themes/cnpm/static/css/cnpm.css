@@ -17,3 +17,7 @@ a:link {
   color: #0c769d;
 }
 
+table {
+  border-spacing: 10px;
+  border-collapse: separate;
+}
