@@ -24,6 +24,14 @@
   background-color: #ffffff;
 }
 
+.post-preview>a:link {
+  color: #000000;
+}
+
+.post-preview>a:hover {
+  color: #0c769d;
+}
+
 a:link {
   color: #0c769d;
 }
