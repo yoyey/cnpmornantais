@@ -1,5 +1,5 @@
 baseurl = "https://cnpmornantais.fr"
-title = "CNPM"
+title = "Cercle des Nageurs du Pays Mornantais"
 languageCode = "fr"
 theme = "cnpm"
 canonifyurls = true
@@ -10,11 +10,13 @@ copyright = "Code released under the Apache 2.0 license."
     name = "cnpm"
 
 [params]
+  shortTitle = "CNPM"
   DateForm = "Mon, 2 Jan, 2006"
   Description = "Cercle des nageurs du pays mornantais"
   Author = "cnpm"
   email = "contact@cnpmornantais.fr"
   Ganalytics = "UA-87654846-1"
+  Keywords = "natation,mornant,ffn,cnpm"
 
 [[params.social]]
   title = "github"
