@@ -5,6 +5,7 @@ theme = "cnpm"
 canonifyurls = true
 paginate = 10
 copyright = "Code released under the Apache 2.0 license."
+googleAnalytics = "UA-87654846-1"
 
 [author]
     name = "cnpm"
@@ -15,7 +16,6 @@ copyright = "Code released under the Apache 2.0 license."
   Description = "Cercle des nageurs du pays mornantais"
   Author = "cnpm"
   email = "contact@cnpmornantais.fr"
-  Ganalytics = "UA-87654846-1"
   Keywords = "natation,mornant,ffn,cnpm"
 
 [[params.social]]
