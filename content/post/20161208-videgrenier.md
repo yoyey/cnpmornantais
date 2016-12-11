@@ -14,5 +14,15 @@ Sur place : buvette et petite restauration.
 
 Entrée gratuite pour les visiteurs.
 
+Pour réserver votre emplacement, veuillez nous renvoyer [la fiche d'inscription](/pdf/inscription_vide_grenier_particulier.pdf) accompagnée d’une photocopie de la carte d’identité et du règlement à l’adresse du club :
 
-Renseignements et inscriptions en adressant un email au club [CNPM](mailto:contact@cnpmornantais.fr)
+CNPM,
+
+maison des associations,
+
+14 rue Boiron,
+
+69440 Mornant
+
+Un email de confirmation vous sera envoyé après réception de tous les documents.
+
