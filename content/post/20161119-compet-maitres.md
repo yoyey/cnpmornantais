@@ -7,7 +7,7 @@ title = "Compétition - Maîtres"
 Les maîtres du cnpm on participé à leur première compétition de l'année lors de
 la 1ère étape Masters Loire - LE CHAMBON FEUGEROLLES.
 
-Dans une ambiance très conviviale, nos maîtres ont pu se mesurer à leurs homolgues
+Dans une ambiance très conviviale, nos maîtres ont pu se mesurer à leurs homologues
 voisins avec comme seul objectif le plaisir de nager et de connaître l'ambiance
 de la compétition.
 Rémo l'entraîneur du groupe de compétion était présent et montre la voie à nos jeunes
