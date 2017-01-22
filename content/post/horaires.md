@@ -15,7 +15,7 @@ title = "Horaires des cours"
 <tbody>
 <tr>
 <td>Aqua découverte</td>
-<td>samedi de 16 h à 17 h</td>
+<td>samedi de 17 h à 18 h</td>
 </tr>
 <tr>
 <td>ENF1</td>
