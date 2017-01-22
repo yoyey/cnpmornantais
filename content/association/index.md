@@ -5,10 +5,15 @@ title = "L'association"
 weight = -180
 +++
 
-Le CNPM (Cercle des Nageurs du pays Mornantais) est un club affilié [FFN](http://www.ffnatation.fr/).
+Le CNPM (Cercle des nageurs du pays mornantais) est un club affilié [FFN](http://www.ffnatation.fr/).
+Les cours se déroulent au centre aquatique "Les bassins de l'aqueduc" dans le
+quartier Les Arches/la Grange Dodieu à proximité immédiate du siège de la COPAMO
+sur l'avenue du Pays Mornantais à Mornant.
+
+<img src="/img/bassins.jpg" class="img-responsive" alt="les bassins de l'aqueduc">
 
 Il a été créé il y a 4 ans par Fabien PEI-TRONCHI et repris en 2016
-par Franck Vaillard.
+par Franck VAILLARD.
 
 Le nouveau bureau est composé des membres suivants :
 <img src="/img/trombi.png" class="img-responsive" alt="Trombi">
