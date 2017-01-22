@@ -7,4 +7,7 @@ build-site:
 server:
 	hugo server
 
-.PHONY: build build-site
+upload:
+	./upload.sh
+
+.PHONY: build build-site server upload
