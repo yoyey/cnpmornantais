@@ -40,3 +40,8 @@ table {
   border-spacing: 10px;
   border-collapse: separate;
 }
+
+.cp_img_resize {
+  width: 300px;
+  height: auto;
+}
