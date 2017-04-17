@@ -3,36 +3,36 @@ set -e
 #set -x
 
 
-if [ -z ${HOST} ]; then
-  echo 'You must defined HOST in your env path'
+if [ -z ${CNPM_HOST} ]; then
+  echo 'You must defined CNPM_HOST in your env path'
   exit
 fi
 
-if [ -z ${USER} ]; then
-  echo 'You must defined USER in your env path'
+if [ -z ${CNPM_USER} ]; then
+  echo 'You must defined CNPM_USER in your env path'
   exit
 fi
 
-if [ -z ${PASS} ]; then
-  echo 'You must defined PASS in your env path'
+if [ -z ${CNPM_PASS} ]; then
+  echo 'You must defined CNPM_PASS in your env path'
   exit
 fi
 
-if [ -z ${TARGETFOLDER} ]; then
-  echo 'You must defined TARGETFOLDER in your env path'
+if [ -z ${CNPM_TARGETFOLDER} ]; then
+  echo 'You must defined CNPM_TARGETFOLDER in your env path'
   exit
 fi
 
-if [ -z ${SOURCEFOLDER} ]; then
-  echo 'You must defined SOURCEFOLDER in your env path'
+if [ -z ${CNPM_SOURCEFOLDER} ]; then
+  echo 'You must defined CNPM_SOURCEFOLDER in your env path'
   exit
 fi
 
 
 lftp -f "
-open $HOST
-user $USER $PASS
-lcd $SOURCEFOLDER
-mirror --reverse --delete --verbose $SOURCEFOLDER $TARGETFOLDER
+open $CNPM_HOST
+user $CNPM_USER $CNPM_PASS
+lcd $CNPM_SOURCEFOLDER
+mirror --reverse --delete --verbose $CNPM_SOURCEFOLDER $CNPM_TARGETFOLDER
 bye
 "
