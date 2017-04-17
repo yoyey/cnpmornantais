@@ -9,7 +9,7 @@ Les bassins de l'acqueduc - Mornant.
 
 Télécharger le fichier : [Résultats](/pdf/20171202_resultats_interclub.pdf)
 
-## 25 Papillon toutes catégories confindues :
+## 25 Papillon toutes catégories confondues :
 
 |   |Noms   | Prénoms | Dates de naissances | Sexes | Catégories | 25 Papillon | Clubs |
 |:--|:----  |:--------|:--------------------|:------|:-----------|:------------|:------|
