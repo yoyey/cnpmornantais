@@ -5,48 +5,147 @@ title = "Natation"
 weight = -160
 +++
 
-Notre association à pour but de préparer et d'accompagner les enfants
-jusqu'en compétition.
+<img src="/img/logo_enf.jpg" class="img-responsive img-center" alt="Ecole de natation française">
+
+# NOTRE SECTION ECOLE DE NATATION
+
+L'école de natation est une phase obligatoire pour pouvoir faire de la
+compétition. Les enfants commencent par passer le Sauv'nage, puis les
+Pass'sports de l'eau, et enfin le Pass'compétition.
+Les nageurs de ce groupe travaillent les gestes et les enchaînements nécessaires
+pour une organisation cohérente des pratiques au service d'une meilleure
+construction du nageur, afin de réussir aux tests et d'accéder au groupe
+compétition.
+
+<img src="/img/desc_enf.jpg" class="img-responsive img-center" alt="Description">
 
 # Aqua découverte
-Cette étape permet d’acquérir les compétences
-minimales pour assurer sa propre sécurité dans l’eau.
+Ce créneau s'adresse aux enfants qui ne savent pas nager.
+L'objectif est d'enseigner à l'enfant les gestes essentiels pour assurer
+sa propre sécurité dans l’eau.
+( Respiration, flottaison et déplacement au grand bain).
+Cette étape permet d’acquérir les compétences minimales pour assurer sa propre
+sécurité dans l’eau.
 
+**Exigence CNPM pour intégrer le groupe:**
 Les enfants sont accueillis à partir de 5 ans.
 
-# ENF1 - Sauv’nage
-A ce niveau, les fondamentaux sont maîtrisés. il est essentiel de
-préparer l’étape suivante (l’ENF2 - Pass’sports  de  l’eau)
-par l’exigence des objectifs visés. Apprendre à ne pas se
-contenter du minimum est une culture, une éducation qui
-favorise l’apprentissage de l’excellence.
+# Etape 1 : Le Sauv’nage (ENF1)
 
-# ENF2 - Pass’sports de l’eau
-Cette seconde étape certifie l’acquisition de
-compétences sportives diversifiées à travers la
-pluridisciplinarité. L’exigence réclamée dans une discipline
-favorise son transfert dans une autre discipline.
+<img src="/img/sauvnage.jpg" class="img-responsive img-center" alt="Description">
 
-# ENF3 - Pass’compétition
-Cette troisième étape garantit à son titulaire la
-capacité de se confronter aux autres, la connaissance des
-règles, la maîtrise de toutes les techniques. Il s’agit ici de ne
-pas confondre confrontation et performance.
-Cette dernière notion étant une expression intime de la
-personne.
+Le Sauv'nage est la première étape pour aquérir les compétences minimales,
+permettant au nageur d'assurer sa propre sécurité dans l'eau. Pour cela,
+plusieurs objectifs sont à atteindre :
 
-# Compétition
-Ces cours permettent aux nageurs ayant validé le
-pass'compétion de s'entraîner pour effectuer des compétitions régionales et nationales.
+* Entrée dans l'eau et immersion
+* Flottaison ventrale
+* Immersion orientée
+* Equilibre vertical
+* Enchaînement déplacement ventral et immersion
+* Flottaison dorsale
+* Déplacement dorsal
+* Exploration de la profondeur
 
-# Maître
-Ce cours permet aux adultes de s'entraîner afin
-d'effectuer des compétitions régionales et nationales.
+**Exigence CNPM pour intégrer le groupe:**
+Savoir se déplacer sur 15 m minimum au grand bain sans aide
+
+*Entrainement:* 1 fois par semaine ( jeudi de 17h à 18h)
+
+# Etape 2 : Pass’sports de l’eau (ENF2)
+
+<img src="/img/passeport.jpg" class="img-responsive img-center" alt="Description">
+
+Il s'agit d'une découverte de différentes disciplines aquatiques :
+le plongeon, le water-polo, la natation synchronisée, la nage avec palmes et
+la natation sportive. Un test est proposé dans chacune de ces disciplines.
+Valider le pass'sport de l'eau suppose d'avoir réussi au moins trois de ces 
+épreuves.
+
+<img src="/img/passeport2.jpg" class="img-responsive img-center" alt="Description">
+
+**Exigence CNPM pour intégrer le groupe:** Avoir son sauv'nage ou savoir se
+déplacer sur 15 m sur le ventre et 15 m sur le dos au grand bain.
+
+*Entrainement:* 2 fois par semaine ( lundi de 17h à 18h et le mercredi de 15h à 16h30)
+
+# Etape 3 : Pass’compétition
+
+<img src="/img/passcompet.jpg" class="img-responsive img-center" alt="Description">
+
+Le Pass'compétition est la dernière étape à franchir pour pouvoir participer aux
+compétitions. Pour valider cet ultime test, il faut nager un 100 mètres 4 nages
+dans l'ordre défini par la FINA (Fédération Internationale de Natation),
+soit : papillon, dos, brasse, crawl.
+Différents points sont observés et jugés pendant ce test:
+
+* Se rendre à la chambre d'appel et prendre sa fiche de course
+* Se positionner derrière sa ligne d'eau et se préparer
+* Savoir suivre les ordres de départ (sifflet)
+* Réaliser un départ de compétition (plongeon + coulée)
+* Respecter la règlementation des différentes nages
+* Respecter la règlementation des virages (pap/dos ; dos/brasse ; brasse/crawl)
+* Finir en touchant le mur (à une main en crawl) et demander son temps aux
+chronométreurs.
+
+Une fois le pass'compétition validé, le nageur peut alors participer à toutes
+les compétitions.
+
+**Exigence CNPM pour intégrer le groupe:**
+Avoir son pass'sport de l'eau ou savoir nager 2 nages sur 50 m.
+
+*Entrainement:* 2 fois par semaine ( mercredi de 16h30 à 18h et le vendredi de
+17h à 18h00)
+
+# ETAPE 4 : Groupe Compétition 1 et 2.
+
+Cette section est le prolongement de l'école de natation : après avoir validé
+les 3 tests obligatoires, le nageur peut enfin participer aux compétitions.
+Pour être dans cette section, il faut s'engager à faire au moins deux
+compétitions dans l'année.
+
+ATTENTION : la participation au groupe compétition suppose que le nageur ou la
+nageuse soit motivé(e), si l'entraîneur juge que ce n'est pas le cas, celui-ci
+passera en section perfectionnement.
+
+**Exigence CNPM pour intégrer le groupe:**
+Avoir son pass'compétition ou savoir nager 100 m 4 nages .
+
+*Entrainement:* 3 fois par semaine pour le groupe compétition 1
+(lundi, mercredi et vendredi de 18h à 19h30)
+
+2 fois par semaine pour le groupe compétition 2
+(lundi et vendredi de 18h à 19h30)
+
+# Groupe Perfectionnement
+
+Ce groupe s'adresse aux jeunes qui ne veulent pas faire de compétition ou qui
+souhaitent progresser afin d'intégrer ce groupe.
+La section perfectionnemnt n'est pas une école de natation, il faut déjà
+savoir nager,
+Un entraîneur encadre la séance et propose des exercices moins intensifs qu'en
+section compétition. Il n'y a qu'une séance par semaine.
+
+# Maître /Prépa. BAC
+Ce groupe s'adresse aux adultes qui souhaitent garder la forme, et aux lycéens 
+souhaitant préparer le bac et l'option natation.
+Pour les adultes, l'objectif est de passer un bon moment en nagant et en 
+profitant des conseils de l'entraîneur. Il y a possibilité de participer aux
+compétitions pour ceux qui le veulent.
 
 # Natation adulte
 Cours de remise en forme et de renforcement musculaire.
 
 # BNSSA
-Nous préparons nos membres qui le souhaitent à la préparation du
-Brevet national de sécurité et de sauvetage aquatique.
+Acompagement au BNSSA (préparation du Brevet national de sécurité et de
+sauvetage aquatique).
 
+Ce créneau s'adresse aux jeunes qui souhaitent passer le BNSSA.
+Il sagit de préparer les candidats aux épreuves nécessaires à l'obtention du
+diplôme. ( pse1 / pse2 / épreuves physiques et théoriques.)
+
+**Exigence CNPM pour intégrer le groupe:**
+Avoir 17 ans minimum et nager au moins 400 m sans arrêt. Pour les nouveaux
+licenciés, un test est obligatoires.
+
+*Entrainement:* 1 fois par semaine. ( mercredi de 19h30 à 21h30)

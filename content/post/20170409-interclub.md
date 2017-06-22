@@ -6,7 +6,7 @@ title = "compétition interclubs du 9 avril 2017"
 Voici les résulats de la deuxième compétion interclub du cnpm sur le site :
 Les bassins de l'acqueduc - Mornant.
 
-Télécharger le fichier : [Résultats](/pdf/20171604_resultats_interclub.pdf)
+Télécharger le fichier : [Résultats](/pdf/20170409_resultats_interclub.pdf)
 
 ## 25m Papillon toutes catégories confondues
 
