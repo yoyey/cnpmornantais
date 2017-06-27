@@ -20,41 +20,58 @@ Nos tarifs :
 <td>100 € (pour 10 séances)</td>
 </tr>
 <tr>
-<td>Ecole de natation</td>
+<td>Sauv'nage</td>
 <td>200 €</td>
 </tr>
 <tr>
-<td>Groupe compétition</td>
-<td>210 €</td>
-</tr>
-<tr>
-<td>Groupe maître</td>
+<td>Pass'Port de l'eau</td>
 <td>220 €</td>
 </tr>
 <tr>
-<td>Groupe loisirs</td>
-<td>190 €</td>
+<td>Pass'compétition</td>
+<td>220 €</td>
 </tr>
 <tr>
-<td>Synchro Neptune</td>
+<td>Groupe compétition</td>
+<td>230 €</td>
+</tr>
+<tr>
+<td>Groupe maître</td>
+<td>230 €</td>
+</tr>
+<tr>
+<td>Groupe maître perfectionnement</td>
 <td>210 €</td>
 </tr>
 <tr>
+<td>Synchro Hippocampe</td>
+<td>220 €</td>
+</tr>
+<tr>
 <td>Synchro autres équipes</td>
-<td>230 €</td>
+<td>250 €</td>
+</tr>
+<tr>
+<td>BNSSA</td>
+<td>230 € (+ frais annexe)</td>
 </tr>
 </tbody>
 </table>
 
 Une réduction de 10 € est accordée pour 2 personnes inscrites.
 
-Pour vous inscrire, vous pouvez télécharger les documents suivants :
+Voici les documents à remplir pour l'inscription pour la saison 2017-2018 :
 
-* Télécharger le dossier d'inscription : [enfant mineur](/pdf/inscription2016mineur.pdf) ou [maître](/pdf/inscription2016maitre.pdf)
-* [Télécharger le règlement intérieur](/pdf/reglementinterieur2016.pdf)
-* [Télécharger le formulaire de licence ffn 2017](/pdf/formulairelicence2017.pdf)
+* Télécharger le dossier d'inscription : [Inscription](/pdf/inscription2017.pdf)
+* [Télécharger le règlement intérieur](/pdf/reglementinterieur2017.pdf)
+* [Télécharger le formulaire de licence ffn 2018](/pdf/formulairelicence2017-2018.pdf)
+* En fonction des cas ci-dessous, vous pouvez télécharger le document suivant :
+[Attestation médicale](/pdf/attestationmedicale2017.pdf)
 
-Déposez ensuite l'ensemble des documents ainsi qu'un certificat médical mentionnant l'absence de contre-indication
-à la pratique sportive en compétition au 14 rue boiron 69440 Mornant, dans la boite aux lettres cnpm
+Déposez ensuite l'ensemble des documents ainsi que le règlement au 14 rue boiron
+69440 Mornant, dans la boite aux lettres cnpm.
+Les tarifs sont disponible sur le site.
+
+<img src="/img/memorecap.png" class="img-responsive">
 
 
