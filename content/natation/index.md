@@ -122,16 +122,30 @@ Avoir son pass'compétition ou savoir nager 100 m 4 nages .
 Ce groupe s'adresse aux jeunes qui ne veulent pas faire de compétition ou qui
 souhaitent progresser afin d'intégrer ce groupe.
 La section perfectionnemnt n'est pas une école de natation, il faut déjà
-savoir nager,
+savoir nager.
+
 Un entraîneur encadre la séance et propose des exercices moins intensifs qu'en
 section compétition. Il n'y a qu'une séance par semaine.
+
+*Entrainement:* 1 fois par semaine (jeudi de 18h à 19h30)
 
 # Maître /Prépa. BAC
 Ce groupe s'adresse aux adultes qui souhaitent garder la forme, et aux lycéens 
 souhaitant préparer le bac et l'option natation.
-Pour les adultes, l'objectif est de passer un bon moment en nagant et en 
+
+Pour les adultes, l'objectif est de passer un bon moment en nageant et en 
 profitant des conseils de l'entraîneur. Il y a possibilité de participer aux
 compétitions pour ceux qui le veulent.
+
+* Groupe maître compétition :
+
+*Entrainement:* 1 fois par semaine  (mercredi de 19h30 à 21h30)
+
+* Groupe maître perfectionnement :
+Vous savez nager, mais vous voulez approfondir votre technique
+(mouvements, respirations, etc.).
+
+*Entrainement:* 1 fois par semaine  (jeudi de 19h30 à 20h30)
 
 # Natation adulte
 Cours de remise en forme et de renforcement musculaire.
