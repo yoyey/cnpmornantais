@@ -32,6 +32,14 @@
 
     <!-- jQuery -->
     <script src="{{ .Site.BaseURL }}/js/jquery.min.js"></script>
+    <script>
+      $(document).ready(function() {
+        var $sub = $("#_subject");
+        $("#email").on("input", function() {
+          $sub.val("Email depuis le site de " + $(this).val());
+        });
+      });
+    </script>
 
     <!-- Bootstrap Core JavaScript -->
     <script src="{{ .Site.BaseURL }}/js/bootstrap.min.js"></script>
