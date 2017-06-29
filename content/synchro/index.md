@@ -22,23 +22,30 @@ la synchro et si leur niveau en natation n'est pas suffisant pour intégrer une
 équipe, nous leur proposons de faire une année de sportive en ENF pour se
 perfectionner et être capable de suivre les cours de synchro.
 
+# Hippocampe :
+
+Débutantes, âge 8 - 10 ans
+
+Cours le samedi de 12h à 14h et le jeudi de 19h30 à 20h30 les semaines paires
+
+
 # Neptune :
 
-débutantes, âge 8 - 10 ans
+débutantes, âge 9 - 11 ans
+
+Cours le mardi de 17h à 18h30
 
 # Marsouins :
 
 certaines ont déjà 3 ans d'expérience, certaines sont débutantes mais très
 bonnes nageuses, âge entre 11 et 13 ans
 
-# Ibis :
+Cours le samedi de 13h à 16h et le jeudi de 19h30 à 20h30 les semaines impaires
 
-4 ans d'expérience, âge 14 ans
+# Tamalou :
 
-# Barracuda :
+4 à 6  ans de pratiques, âge 14 ans à 17 ans
 
-4 ans d'expérience, âge 15 - 16 ans
-
-# Aurora :
-4 à 7 ans d'expérience, âge 17 ans
+Cours le mardi de 18h15 à 21h15 et le jeudi de 19h30 à 20h30 les semaines
+impaires
 

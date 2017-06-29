@@ -1,58 +1,81 @@
 +++
 date = "2016-10-06T18:51:50+02:00"
 menu = "main"
-title = "Tarifs"
+title = "Tarifs et inscription"
 weight = -140
 +++
-
-Nos tarifs :
 
 <table class="table table-striped">
 <thead>
 <tr>
 <th>Activité</th>
+<th>Horaires</th>
 <th>Prix</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td>Aqua découverte</td>
-<td>100 € (pour 10 séances)</td>
+<td>Samedi 17h-18h</td>
+<td>200 € à l'année ou 150 €(pour 15 séances)</td>
 </tr>
 <tr>
 <td>Sauv'nage</td>
+<td>Jeudi 17-18h</td>
 <td>200 €</td>
 </tr>
 <tr>
 <td>Pass'Port de l'eau</td>
+<td>Lundi 17 h à 18 h </br>
+Mercredi 15 h à 16 h 30</td>
 <td>220 €</td>
 </tr>
 <tr>
 <td>Pass'compétition</td>
+<td>Mercredi 16 h 30 à 18 h</br>
+Vendredi 17 h à 18 h</td>
 <td>220 €</td>
 </tr>
 <tr>
 <td>Groupe compétition</td>
+<td>Lundi 18 h à 19 h 30</br>
+Mercredi 18 h à 19 h 30</br>
+Vendredi 18 h à 19 h 30</td>
 <td>230 €</td>
 </tr>
 <tr>
-<td>Groupe maître</td>
+<td>Groupe maître compétition</td>
+<td>Mercredi 19 h 30 à 21 h 30</td>
 <td>230 €</td>
 </tr>
 <tr>
 <td>Groupe maître perfectionnement</td>
+<td>Jeudi 19 h 30 à 20 h 30</td>
 <td>210 €</td>
 </tr>
 <tr>
 <td>Synchro Hippocampe</td>
+<td>Samedi 12 h à 14 h</br>
+Jeudi de 19 h 30 à 20 h 30</br>
+les semaines paires</td>
 <td>220 €</td>
 </tr>
 <tr>
-<td>Synchro autres équipes</td>
+<td>Synchro Neptune</td>
+<td>Mardi de 17 h à 18 h 30</td>
 <td>250 €</td>
 </tr>
 <tr>
+<td>Synchro Tamalou</td>
+<td>Mardi de 18 h 15 à 21 h 15</br>
+Jeudi de 19 h 30 à 20 h 30</br>
+les semaines impaires</td>
+<td>250 €</td>
+</tr>
+
+<tr>
 <td>BNSSA</td>
+<td></td>
 <td>230 € (+ frais annexe)</td>
 </tr>
 </tbody>
