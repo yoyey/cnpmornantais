@@ -20,6 +20,7 @@ $(function() {
             var email = $("input#email").val();
             var phone = $("input#phone").val();
             var message = $("textarea#message").val();
+            var subject = $("input#_subject").val();
             var firstName = name; // For Success/Failure Message
             var sendEmail ="https://formspree.io/" +
               $("button.btn.btn-default").attr("data-sendemail");
@@ -34,7 +35,8 @@ $(function() {
                     name: name,
                     phone: phone,
                     email: email,
-                    message: message
+                    message: message,
+                    _subject: subject
                 },
                 dataType: "json",
                 cache: false,

@@ -1,4 +1,4 @@
-{{ partial "header.html" . }}
+{{ partial "contactheader.html" . }}
 
     <!-- Page Header -->
     <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/home-bg.jpg')">
@@ -31,6 +31,7 @@
                     <div class="row control-group">
                         <div class="form-group col-xs-12 floating-label-form-group controls">
                             <label>Email Address</label>
+                            <input type="hidden" name="_subject" id="_subject" value="Contact depuis le site">
                             <input type="email" class="form-control" placeholder="Email" id="email" required data-validation-required-message="Complétez votre email.">
                             <p class="help-block text-danger"></p>
                         </div>
