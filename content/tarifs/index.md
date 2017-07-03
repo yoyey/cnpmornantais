@@ -16,16 +16,16 @@ weight = -140
 <tbody>
 <tr>
 <td>Aqua découverte</td>
-<td>Samedi 17h-18h</td>
+<td>Samedi 17 h à 18 h</td>
 <td>200 € à l'année ou 150 €(pour 15 séances)</td>
 </tr>
 <tr>
 <td>Sauv'nage</td>
-<td>Jeudi 17-18h</td>
+<td>Jeudi 17 h à 18 h</td>
 <td>200 €</td>
 </tr>
 <tr>
-<td>Pass'Port de l'eau</td>
+<td>Pass'sports de l'eau</td>
 <td>Lundi 17 h à 18 h </br>
 Mercredi 15 h à 16 h 30</td>
 <td>220 €</td>
@@ -56,23 +56,30 @@ Vendredi 18 h à 19 h 30</td>
 <tr>
 <td>Synchro Hippocampe</td>
 <td>Samedi 12 h à 14 h</br>
-Jeudi de 19 h 30 à 20 h 30</br>
+Jeudi 19 h 30 à 20 h 30</br>
 les semaines paires</td>
 <td>220 €</td>
 </tr>
 <tr>
 <td>Synchro Neptune</td>
-<td>Mardi de 17 h à 18 h 30</td>
+<td>Mardi de 17 h à 18 h 30</br>
+samedi 15 h 30 à 17 h</td>
+<td>250 €</td>
+</tr>
+<tr>
+<td>Synchro Marsouins</td>
+<td>samedi 13 h à 16 h</br>
+ jeudi 19 h 30 à 20 h 30</br>
+ les semaines impaires</td>
 <td>250 €</td>
 </tr>
 <tr>
 <td>Synchro Tamalou</td>
-<td>Mardi de 18 h 15 à 21 h 15</br>
-Jeudi de 19 h 30 à 20 h 30</br>
+<td>Mardi 18 h 15 à 21 h 15</br>
+Jeudi 19 h 30 à 20 h 30</br>
 les semaines impaires</td>
 <td>250 €</td>
 </tr>
-
 <tr>
 <td>BNSSA</td>
 <td></td>

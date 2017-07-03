@@ -30,6 +30,8 @@ sécurité dans l’eau.
 **Exigence CNPM pour intégrer le groupe:**
 Les enfants sont accueillis à partir de 5 ans.
 
+*Entrainement:* 1 fois par semaine (samedi de 17h à 18h)
+
 # Etape 1 : Le Sauv’nage (ENF1)
 
 <img src="/img/sauvnage.jpg" class="img-responsive img-center" alt="Description">
@@ -69,7 +71,7 @@ déplacer sur 15 m sur le ventre et 15 m sur le dos au grand bain.
 
 *Entrainement:* 2 fois par semaine ( lundi de 17h à 18h et le mercredi de 15h à 16h30)
 
-# Etape 3 : Pass’compétition
+# Etape 3 : Pass’compétition (ENF3)
 
 <img src="/img/passcompet.jpg" class="img-responsive img-center" alt="Description">
 
@@ -92,7 +94,7 @@ Une fois le pass'compétition validé, le nageur peut alors participer à toutes
 les compétitions.
 
 **Exigence CNPM pour intégrer le groupe:**
-Avoir son pass'sport de l'eau ou savoir nager 2 nages sur 50 m.
+Avoir son pass'sports de l'eau ou savoir nager 2 nages sur 50 m.
 
 *Entrainement:* 2 fois par semaine ( mercredi de 16h30 à 18h et le vendredi de
 17h à 18h00)
@@ -121,7 +123,7 @@ Avoir son pass'compétition ou savoir nager 100 m 4 nages .
 
 Ce groupe s'adresse aux jeunes qui ne veulent pas faire de compétition ou qui
 souhaitent progresser afin d'intégrer ce groupe.
-La section perfectionnemnt n'est pas une école de natation, il faut déjà
+La section perfectionnement n'est pas une école de natation, il faut déjà
 savoir nager.
 
 Un entraîneur encadre la séance et propose des exercices moins intensifs qu'en
@@ -147,9 +149,6 @@ Vous savez nager, mais vous voulez approfondir votre technique
 
 *Entrainement:* 1 fois par semaine  (jeudi de 19h30 à 20h30)
 
-# Natation adulte
-Cours de remise en forme et de renforcement musculaire.
-
 # BNSSA
 Acompagement au BNSSA (préparation du Brevet national de sécurité et de
 sauvetage aquatique).
@@ -160,6 +159,6 @@ diplôme. ( pse1 / pse2 / épreuves physiques et théoriques.)
 
 **Exigence CNPM pour intégrer le groupe:**
 Avoir 17 ans minimum et nager au moins 400 m sans arrêt. Pour les nouveaux
-licenciés, un test est obligatoires.
+licenciés, un test est obligatoire.
 
 *Entrainement:* 1 fois par semaine. ( mercredi de 19h30 à 21h30)
