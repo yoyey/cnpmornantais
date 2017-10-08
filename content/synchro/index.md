@@ -5,6 +5,8 @@ title = "Natation synchronisée"
 weight = -140
 +++
 
+{{< youtube id="8HRYYJZ9pI4" autoplay="true" >}}
+
 La natation synchronisée associe la natation, la danse, la gymnastique et le
 sens du rythme;
 Il est impératif de maîtriser le crawl, la brasse et le dos crawlé avant de
@@ -48,4 +50,4 @@ Cours le samedi de 13h à 16h et le jeudi de 19h30 à 20h30 les semaines impaire
 Cours le mardi de 18h15 à 21h15 et le jeudi de 19h30 à 20h30 les semaines
 impaires
 
-Test pour intégrer la nat synchro le samedi 23 septembre de 14h à 15h.
+Test pour intégrer la nat synchro le samedi 23 septembre de 13h à 14h.

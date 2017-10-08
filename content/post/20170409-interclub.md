@@ -1,7 +1,7 @@
 +++
 Description = "Résultats"
 date = "2017-04-09"
-title = "compétition interclubs du 9 avril 2017"
+title = "Compétition interclubs du 9 avril 2017"
 +++
 Voici les résulats de la deuxième compétion interclub du cnpm sur le site :
 Les bassins de l'acqueduc - Mornant.

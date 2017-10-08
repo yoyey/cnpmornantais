@@ -5,6 +5,10 @@ title = "L'association"
 weight = -180
 +++
 
+Vidéo de présentation du club :
+
+{{< youtube id="AgzUNoMz6nk" autoplay="true">}}
+
 Le CNPM (Cercle des nageurs du pays mornantais) est un club affilié [FFN](http://www.ffnatation.fr/).
 Les cours se déroulent au centre aquatique "Les bassins de l'aqueduc" dans le
 quartier Les Arches/la Grange Dodieu à proximité immédiate du siège de la COPAMO

@@ -1,5 +1,5 @@
 +++
-Description = "pour la saison 2017-2018"
+Description = "Pour la saison 2017-2018"
 date = "2017-06-23"
 title = "Inscription"
 +++

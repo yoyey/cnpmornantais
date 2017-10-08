@@ -43,6 +43,10 @@ Mercredi 18 h à 19 h 30</br>
 Vendredi 18 h à 19 h 30</td>
 <td>230 €</td>
 </tr>
+<td>Groupe perfectionnementt</td>
+<td>jeudi 18 h à 19 h 30</td>
+<td>210 €</td>
+</tr>
 <tr>
 <td>Groupe maître compétition</td>
 <td>Mercredi 19 h 30 à 21 h 30</td>
