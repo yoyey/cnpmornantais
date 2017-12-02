@@ -1,7 +1,7 @@
 +++
 Description = "Le premier vide grenier du cnpm"
 date = "2016-12-08T19:58:39+02:00"
-title = "Vide grenier"
+title = "Vide grenier 2017"
 +++
 
 Le CNPM organise un vide grenier le dimanche 5 février 2017 au boulodrome de Mornant.
