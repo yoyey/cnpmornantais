@@ -28,7 +28,7 @@ perfectionner et être capable de suivre les cours de synchro.
 
 Débutantes, âge 8 - 10 ans
 
-Cours le samedi de 12h à 14h et le jeudi de 19h30 à 20h30 les semaines paires
+Cours le samedi de 12h à 14h et le jeudi de 19h à 20h30 les semaines paires
 
 # Neptune :
 
@@ -41,13 +41,13 @@ Cours le mardi de 17h à 18h30 et le samedi de 15h30 à 17h
 certaines ont déjà 3 ans d'expérience, certaines sont débutantes mais très
 bonnes nageuses, âge entre 11 et 13 ans
 
-Cours le samedi de 13h à 16h et le jeudi de 19h30 à 20h30 les semaines impaires
+Cours le samedi de 13h à 16h et le jeudi de 19h à 20h30 les semaines impaires
 
 # Tamalou :
 
 4 à 6  ans de pratiques, âge 14 ans à 17 ans
 
-Cours le mardi de 18h15 à 21h15 et le jeudi de 19h30 à 20h30 les semaines
+Cours le mardi de 18h15 à 21h15 et le jeudi de 19h à 20h30 les semaines
 impaires
 
 Test pour intégrer la nat synchro le samedi 23 septembre de 13h à 14h.

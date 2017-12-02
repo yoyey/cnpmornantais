@@ -60,7 +60,7 @@ Vendredi 18 h à 19 h 30</td>
 <tr>
 <td>Synchro Hippocampe</td>
 <td>Samedi 12 h à 14 h</br>
-Jeudi 19 h 30 à 20 h 30</br>
+Jeudi 19 h à 20 h 30</br>
 les semaines paires</td>
 <td>220 €</td>
 </tr>
@@ -73,14 +73,14 @@ samedi 15 h 30 à 17 h</td>
 <tr>
 <td>Synchro Marsouins</td>
 <td>samedi 13 h à 16 h</br>
- jeudi 19 h 30 à 20 h 30</br>
+ jeudi 19 h à 20 h 30</br>
  les semaines impaires</td>
 <td>250 €</td>
 </tr>
 <tr>
 <td>Synchro Tamalou</td>
 <td>Mardi 18 h 15 à 21 h 15</br>
-Jeudi 19 h 30 à 20 h 30</br>
+Jeudi 19 h à 20 h 30</br>
 les semaines impaires</td>
 <td>250 €</td>
 </tr>
