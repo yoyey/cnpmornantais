@@ -18,12 +18,14 @@ title = "Natation sportive"
 |DATE                   | COMPETITIONS                       | CATEGORIES    | LIEU    |
 |:----------------------|------------------------------------|---------------|---------|
 | 21 et 22 octobre 2017 | championnat du Rhône Automne       | Juniors et +  | Vaise   |
-| 9 décembre 2017       | Pass'compétition natation course 2 | nageurs ayant obtenu le pass'sport de l'eau |Meyzieu |
-| 10 décembre 2017 | Rencontre inteclubs | Toutes les catégories | Mornant |
-| 27 et 28 janvier 2018 | Championnat du Rhône Hiver | Juniors et + | A définir |
-| 04 mars 2018 | Pass'compétition natation course 4 | nageurs ayant obtenu le pass'sport de l'eau |A définir |
+|10 décembre 2017       | Pass'compétition natation course 2 | nageurs ayant obtenu le pass'sport de l'eau |La Mulatière |
+| 13 décembre 2017 | Pass'sport de l'eau Nageurs ayant obtenu le Sauv'nage | Mornant |
+| 27 et 28 janvier 2018 | Championnat du Rhône Hiver | Juniors et + | Venissieux |
+| 04 mars 2018 | Pass'compétition natation course 4 | nageurs ayant obtenu le pass'sport de l'eau |Sainte-Foy|
 | 25 mars 2018 | Rencontre interclubs | Toutes les catégories | Mornant |
-| 05 et 06 mai 2018 | Championnat du Rhône Printemps |  Juniors et + | A définir |
+| 28 mars 2018 |  Pass'sport de l'eau | Nageurs ayant obtenu le Sauv'nage | Mornant
+| 05 et 06 mai 2018 | Championnat du Rhône Printemps |  Juniors et + | L'Arbresle |
+| 06-juin | Pass'sport de l'eau | Nageurs ayant obtenu le Sauv'nage | Mornant |
 
 Vous pouvez télécharger le [Calendrier des compétitions 2017 - 2018](/pdf/20171010_calendrier_competition.pdf).
 
