@@ -1,9 +1,10 @@
 +++
 Description = "Vide grenier du cnpm"
-date = "2018-12-02T19:58:39+02:00"
-title = "Vide grenier 2018"
+date = "2018-01-02T19:58:39+02:00"
+title = "Le vide grenier 2018 est complet"
 +++
 
+Toute les places ont été réservées.
 Le CNPM organise un vide grenier le dimanche 4 février 2018 au boulodrome de Mornant.
 
 Vide-grenier avec réservation : 12 € la table de 2.20 mètres
