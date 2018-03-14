@@ -8,7 +8,8 @@ title = "La nuit de l'eau 2018"
 
 Le CNPM organise en partenariat avec le club de plongée (le CSPM), la COPAMO,
 la FFN et UNICEF une soirée caritative "la nuit de l'eau" le samedi 17 mars 2018
-de 19h à 23h au bassin nautique de Mornant. [www.lanuitdeleau.com](https://www.lanuitdeleau.com/)
+de 19h à 23h au centre aquatique intercommunal à Mornant.
+[www.lanuitdeleau.com](https://www.lanuitdeleau.com/)
 
 Les fonds récoltés iront à UNICEF en faveur des enfants d'Haïti (développement
 d'un programme d'accès à l'eau pour les enfants en Haïti).
