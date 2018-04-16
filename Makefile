@@ -2,7 +2,7 @@ build: build-site
 
 build-site:
 	          rm -rf public/
-	          hugo
+	          hugo -v
 
 server:
 	hugo server

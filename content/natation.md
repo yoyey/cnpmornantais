@@ -1,8 +1,6 @@
 +++
 date = "2016-10-06T18:51:50+02:00"
-menu = "main"
 title = "Natation"
-weight = -160
 +++
 
 <img src="/img/logo_enf.jpg" class="img-responsive img-center" alt="Ecole de natation française">

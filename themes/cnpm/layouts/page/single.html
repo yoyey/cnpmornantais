@@ -2,7 +2,11 @@
 
     <!-- Page Header -->
     <!-- Set your background image for this header on the line below. -->
+    {{ if eq .Params.bg "synchro" }}
     <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/synchro-bg.jpg')">
+    {{ else }}
+    <header class="intro-header" style="background-image: url('{{ .Site.BaseURL }}/img/home-bg.jpg')">
+    {{ end}}
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
@@ -19,11 +23,14 @@
     <!-- Main Content -->
     <div class="container">
         <div class="row">
-            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <div class="col-md-10 col-md-offset-1">
+              {{ if isset .Params "id" }}
+              {{ partial .Params.id . }}
+              {{ else }}
               {{ .Content }}
+              {{ end }}
             </div>
         </div>
     </div>
-
 
 {{ partial "footer.html" . }}

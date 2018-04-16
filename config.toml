@@ -1,11 +1,49 @@
 baseurl = "https://cnpmornantais.fr"
 title = "Cercle des Nageurs du Pays Mornantais"
-languageCode = "fr"
+languageCode = "fr-fr"
+# Site language. Available translations in the theme's `/i18n` directory.
+defaultContentLanguage = "fr"
 theme = "cnpm"
 canonifyurls = true
 paginate = 10
 copyright = "Code released under the Apache 2.0 license."
 googleAnalytics = "UA-87654846-1"
+
+[menu]
+
+# Main menu
+
+[[menu.main]]
+    name = "Agenda 2017-2018"
+    url  = "/agenda/"
+    weight = 1
+
+[[menu.main]]
+    name = "L'association"
+    url  = "/association/"
+    weight = 2
+
+[[menu.main]]
+    name = "Natation"
+    url  = "/natation/"
+    weight = 3
+
+[[menu.main]]
+    name = "Natation synchronisée"
+    url  = "/synchro/"
+    weight = 4
+
+[[menu.main]]
+    name = "Tarifs et inscription"
+    url  = "/tarifs/"
+    weight = 5
+
+[[menu.main]]
+    name = "Contact"
+    url  = "/contact/"
+    identifier = "contact"
+    weight = 6
+
 
 [author]
     name = "cnpm"

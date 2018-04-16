@@ -1,8 +1,6 @@
 +++
 date = "2017-11-12T08:51:50+02:00"
-menu = "main"
 title = "Agenda 2017-2018"
-weight = -200
 +++
 
 Retrouvez sur cette page les dates clés de la saison 2017-2018.....
