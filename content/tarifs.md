@@ -85,10 +85,12 @@ les semaines impaires</td>
 <tr>
 <td>BNSSA</td>
 <td></td>
-<td>230 € (+ frais annexe)</td>
+<td>230 € + frais annexe : Pour 2017-2018 : ces frais sont de 600 €</td>
 </tr>
 </tbody>
 </table>
+
+
 
 Une réduction de 10 € est accordée pour 2 personnes inscrites.
 
