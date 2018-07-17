@@ -18,12 +18,8 @@ compétition.
 <img src="/img/desc_enf.jpg" class="img-responsive img-center" alt="Description">
 
 # Aqua découverte
-Ce créneau s'adresse aux enfants qui ne savent pas nager.
-L'objectif est d'enseigner à l'enfant les gestes essentiels pour assurer
-sa propre sécurité dans l’eau.
-( Respiration, flottaison et déplacement au grand bain).
-Cette étape permet d’acquérir les compétences minimales pour assurer sa propre
-sécurité dans l’eau.
+Ce créneau s'adresse aux enfants sachant se déplacer sur quelques mètres sans
+aide et souhaitant entrer dans les équipes synchro ou compétition dans les années à venir.
 
 **Exigence CNPM pour intégrer le groupe:**
 Les enfants sont accueillis à partir de 5 ans.
@@ -50,7 +46,7 @@ plusieurs objectifs sont à atteindre :
 **Exigence CNPM pour intégrer le groupe:**
 Savoir se déplacer sur 15 m minimum au grand bain sans aide
 
-*Entrainement:* 1 fois par semaine ( jeudi de 17h à 18h)
+*Entrainement:* 1 fois par semaine ( jeudi de 17 h à 17 h 45 ou de 17 h45 à 18 h 30)
 
 # Etape 2 : Pass’sports de l’eau (ENF2)
 
@@ -67,7 +63,7 @@ Valider le pass'sport de l'eau suppose d'avoir réussi au moins trois de ces 
 **Exigence CNPM pour intégrer le groupe:** Avoir son sauv'nage ou savoir se
 déplacer sur 15 m sur le ventre et 15 m sur le dos au grand bain.
 
-*Entrainement:* 2 fois par semaine ( lundi de 17h à 18h et le mercredi de 15h à 16h30)
+*Entrainement:* 2 fois par semaine ( lundi de 17h à 18h et le mercredi de 14 h 30 à 15 h 30)
 
 # Etape 3 : Pass’compétition (ENF3)
 
@@ -94,10 +90,10 @@ les compétitions.
 **Exigence CNPM pour intégrer le groupe:**
 Avoir son pass'sports de l'eau ou savoir nager 2 nages sur 50 m.
 
-*Entrainement:* 2 fois par semaine ( mercredi de 16h30 à 18h et le vendredi de
+*Entrainement:* 2 fois par semaine ( mercredi de 15 h 30 à 17 h et le vendredi de
 17h à 18h00)
 
-# ETAPE 4 : Groupe Compétition 1 et 2.
+# ETAPE 4 : Groupe Compétition 1, 2,3.
 
 Cette section est le prolongement de l'école de natation : après avoir validé
 les 3 tests obligatoires, le nageur peut enfin participer aux compétitions.
@@ -117,17 +113,8 @@ Avoir son pass'compétition ou savoir nager 100 m 4 nages .
 2 fois par semaine pour le groupe compétition 2
 (lundi et vendredi de 18h à 19h30)
 
-# Groupe Perfectionnement
-
-Ce groupe s'adresse aux jeunes qui ne veulent pas faire de compétition ou qui
-souhaitent progresser afin d'intégrer ce groupe.
-La section perfectionnement n'est pas une école de natation, il faut déjà
-savoir nager.
-
-Un entraîneur encadre la séance et propose des exercices moins intensifs qu'en
-section compétition. Il n'y a qu'une séance par semaine.
-
-*Entrainement:* 1 fois par semaine (jeudi de 18h à 19h30)
+1 fois par semaine pour le groupe compétition 3
+(jeudi de 18h à 19h30)
 
 # Maître /Prépa. BAC
 Ce groupe s'adresse aux adultes qui souhaitent garder la forme, et aux lycéens 
@@ -137,13 +124,11 @@ Pour les adultes, l'objectif est de passer un bon moment en nageant et en 
 profitant des conseils de l'entraîneur. Il y a possibilité de participer aux
 compétitions pour ceux qui le veulent.
 
-* Groupe maître compétition :
+* Groupe maître compétition 1:
 
 *Entrainement:* 1 fois par semaine  (mercredi de 19h30 à 21h30)
 
-* Groupe maître perfectionnement :
-Vous savez nager, mais vous voulez approfondir votre technique
-(mouvements, respirations, etc.).
+* Groupe maître compétition 2:
 
 *Entrainement:* 1 fois par semaine  (jeudi de 19h30 à 20h30)
 

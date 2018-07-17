@@ -24,7 +24,7 @@ googleAnalytics = "UA-87654846-1"
     weight = 2
 
 [[menu.main]]
-    name = "Natation"
+    name = "Natation sportive"
     url  = "/natation/"
     weight = 3
 
@@ -34,15 +34,20 @@ googleAnalytics = "UA-87654846-1"
     weight = 4
 
 [[menu.main]]
+    name = "BNSSA"
+    url  = "/bnssa/"
+    weight = 5
+
+[[menu.main]]
     name = "Tarifs et inscription"
     url  = "/tarifs/"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     name = "Contact"
     url  = "/contact/"
     identifier = "contact"
-    weight = 6
+    weight = 7
 
 
 [author]

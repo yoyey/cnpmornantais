@@ -2,6 +2,7 @@
 Description = "Félicitations à notre équipe Junior synchro"
 date = "2018-04-28T08:58:39+02:00"
 title = "Synchro : championnat régional challenge"
+image = "/img/synchro-bg.jpg"
 +++
 
 Pour sa première participation au championnat régional synchro de la ligue Aura, nos nageuses de l'équipe TAMALOU se sont illustrées en obtenant une médaille de bronze dans la catégorie challenge combiné toutes catégories.
