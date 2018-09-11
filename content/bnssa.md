@@ -3,6 +3,8 @@ date = "2018-07-16T8:51:50+02:00"
 title = "Devenir nageur sauveteur"
 +++
 
+[Dossier de présentation 2018-2019](/pdf/DOSSIERBNSSA20182019.pdf)
+
 Le brevet national de sécurité et de sauvetage aquatique (B.N.S.S.A.) est le diplôme du nageur sauveteur.
 
 Le B.N.S.S.A. permet de surveiller des plages publiques ou privées, des piscines privées, et d'assister le Maître Nageur Sauveteur (BPJEPS AAN) dans la surveillance des piscines publiques.
