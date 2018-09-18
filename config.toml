@@ -14,7 +14,7 @@ googleAnalytics = "UA-87654846-1"
 # Main menu
 
 [[menu.main]]
-    name = "Agenda 2017-2018"
+    name = "Saison 2018-2019"
     url  = "/agenda/"
     weight = 1
 
