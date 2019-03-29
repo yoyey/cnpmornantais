@@ -23,7 +23,7 @@ la synchro et si leur niveau en natation n'est pas suffisant pour intégrer une
 équipe, nous leur proposons de faire une année de sportive en ENF pour se
 perfectionner et être capable de suivre les cours de synchro.
 
-# NOUVELLE EQUIPE à constituer selon résultats du test du 23 Septembre 2018
+# Dauphin :
 
 cours le jeudi 19 h à 20 h 30 les 30 premières minutes sont hors de l'eau et le
 samedi de 12 h à 13 h 30

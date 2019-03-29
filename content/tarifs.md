@@ -93,7 +93,7 @@ les semaines paires</td>
 <td>250 €</td>
 </tr>
 <tr>
-<td>Nouvelles synchros</td>
+<td>Synchro Dauphin</td>
 <td>jeudi 19 h à 20 h 30 </br>
 samedi 12 h à 13 h 30</td>
 <td>250 €</td>
@@ -111,8 +111,11 @@ Une réduction de 10 € est accordée pour 2 personnes inscrites.
 Voici les documents à remplir pour l'inscription pour la saison 2018-2019 :
 
 * Télécharger le dossier d'inscription : [Inscription](/pdf/inscription2018.pdf)
+
 * [Télécharger le règlement intérieur](/pdf/reglementinterieur2017.pdf)
+
 * [Télécharger le formulaire de licence ffn 2018-2019](/pdf/formulairelicence2018-2019.pdf)
+
 * En fonction des cas ci-dessous, vous pouvez télécharger le document suivant :
 [Attestation médicale](/pdf/attestationmedicale2018-2019.pdf)
 
