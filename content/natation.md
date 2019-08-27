@@ -24,7 +24,7 @@ aide et souhaitant entrer dans les équipes synchro ou compétition dans les ann
 **Exigence CNPM pour intégrer le groupe:**
 Les enfants sont accueillis à partir de 5 ans.
 
-*Entrainement:* 1 fois par semaine (samedi de 17h à 18h)
+*Entrainement:* 1 fois par semaine (samedi de 17 h à 17 h 45)
 
 # Etape 1 : Le Sauv’nage (ENF1)
 
@@ -63,7 +63,7 @@ Valider le pass'sport de l'eau suppose d'avoir réussi au moins trois de ces 
 **Exigence CNPM pour intégrer le groupe:** Avoir son sauv'nage ou savoir se
 déplacer sur 15 m sur le ventre et 15 m sur le dos au grand bain.
 
-*Entrainement:* 2 fois par semaine ( lundi de 17h à 18h et le mercredi de 14 h 30 à 15 h 30)
+*Entrainement:* 2 fois par semaine ( lundi de 17 h à 18 h et le mercredi de 15 h à 16 h 30)
 
 # Etape 3 : Pass’compétition (ENF3)
 
@@ -90,8 +90,8 @@ les compétitions.
 **Exigence CNPM pour intégrer le groupe:**
 Avoir son pass'sports de l'eau ou savoir nager 2 nages sur 50 m.
 
-*Entrainement:* 2 fois par semaine ( mercredi de 15 h 30 à 17 h et le vendredi de
-17h à 18h00)
+*Entrainement:* 2 fois par semaine ( mercredi de 16 h 30 à 18 h et le vendredi de
+17 h à 18 h)
 
 # ETAPE 4 : Groupe Compétition 1, 2,3.
 
@@ -126,7 +126,7 @@ compétitions pour ceux qui le veulent.
 
 * Groupe maître compétition 1:
 
-*Entrainement:* 1 fois par semaine  (mercredi de 19h30 à 21h30)
+*Entrainement:* 2 fois par semaine  (mercredi de 19 h 30 à 21 h 30 et le jeudi de 19 h 30 à 20 h 30)
 
 * Groupe maître compétition 2:
 

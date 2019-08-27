@@ -17,6 +17,3 @@ sur l'avenue du Pays Mornantais à Mornant.
 Il a été créé il y a 4 ans par Fabien PEI-TRONCHI et repris en 2016
 par Franck VAILLARD.
 
-Le nouveau bureau est composé des membres suivants :
-<img src="/img/trombi.png" class="img-responsive" alt="Trombi">
-

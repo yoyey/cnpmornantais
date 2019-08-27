@@ -5,11 +5,10 @@ title = "Tarifs et inscription"
 
 <img src="/img/partenariat_ffn.jpg" class="img-responsive img-center" alt="Ecole de natation française">
 
-La Fédération Française de Natation a mis en place un partenariat avec Swim Community
- pour la partie inscriptions, couplée à extraNat et à l’ensemble des services
-informatiques de la FFN.
-
-Les inscriptions sont possibles via notre partenaire
+La Fédération Française de Natation a établit un partenariat avec Swim Community
+pour la conception d'un logiciel d'aide à la gestion des clubs.
+Swim Community nous permet d'automatiser l'inscription des membres, et
+d’organiser l’agenda.
 [Swim Community](https://cnpaysmornantais.swim-community.fr/Pages/Login.aspx)
 
 Nous avons réalisé une aide afin de faciliter l'inscription.
@@ -30,8 +29,8 @@ Nos tarifs
 <tbody>
 <tr>
 <td>Aqua découverte</td>
-<td>Samedi 17 h à 18 h</td>
-<td>200 € à l'année ou 150 €(pour 15 séances)</td>
+<td>Samedi 17 h à 17h45 h</td>
+<td>200 € à l'année</td>
 </tr>
 <tr>
 <td>Sauv'nage 1</td>
@@ -45,12 +44,12 @@ Nos tarifs
 <tr>
 <td>Pass'sports de l'eau</td>
 <td>Lundi 17 h à 18 h </br>
-Mercredi 14 h 30 à 15 h 30</td>
+Mercredi 15 à 16 h 30</td>
 <td>220 €</td>
 </tr>
 <tr>
 <td>Pass'compétition</td>
-<td>Mercredi 15 h 30 à 17 h</br>
+<td>Mercredi 16 h 30 à 18 h</br>
 Vendredi 17 h à 18 h</td>
 <td>220 €</td>
 </tr>
@@ -67,7 +66,7 @@ Vendredi 18 h à 19 h 30</td>
 <td>250 €</td>
 <tr>
 <td>Groupe compétition 3</td>
-<td>Jeudi 18 h 30 à 19 h 30</td>
+<td>Jeudi 18 h à 19 h 30</td>
 <td>220€</td>
 <tr>
 <td>Groupe maître 1 compétition</td>
@@ -94,7 +93,7 @@ samedi 11 h 30 à 13 h 30</td>
 </tr>
 <tr>
 <td>Synchro Juniors compet et Jeunes compet</td>
-<td> mardi 19 h à 21 h 30</br>
+<td> mardi 19 h à 21 h</br>
 samedi 9 h à 11 h 30</td>
 <td>250 €</td>
 </tr>
@@ -104,15 +103,15 @@ samedi 9 h à 11 h 30</td>
 <td>250 €</td>
 </tr>
 <tr>
-<td>Synchro Juniors et jeunes espoirs</td>
-<td>lundi 19 h à 21 h 30</td>
+<td>Synchro Juniors jeunes espoirs</td>
+<td>lundi 19 h à 21 h 45</td>
 <td>250 €</td>
 </tr>
 <tr>
 <tr>
 <td>Synchro Nouvelles</td>
 <td>jeudi 18 h 30 à 20 h 30</br>
-samedi 13 h 30 à 15 h</td>
+samedi 11 h 30 à 13 h</td>
 <td>230 €</td>
 </tr>
 <tr>
@@ -123,5 +122,5 @@ samedi 13 h 30 à 15 h</td>
 </tbody>
 </table>
 
-Une réduction de 10 € est accordée pour 2 personnes inscrites.
+Une réduction de 10 € par personne inscrite à compter de 2 personnes.
 
