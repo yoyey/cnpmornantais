@@ -5,7 +5,7 @@ title = "Saison 2018-2019"
 
 Retrouvez sur cette page les dates clés de la saison 2019-2020.....
 
-Vous pouvez télécharger le document [d'occupation du bassin 2029-2020](/pdf/occupation_des_bassins_2018_2019.pdf)
+Vous pouvez télécharger le document [d'occupation du bassin 2019-2020](/pdf/planning_2019-2020.pdf)
 
 Vous pouvez aussi utiliser notre calendrier partagé :
 [Agenda](https://calendar.google.com/calendar?cid=Y25wbW9ybmFudGFpc0BnbWFpbC5jb20)
