@@ -81,42 +81,47 @@ Jeudi 19 h 30 à 20 h 30</td>
 </tr>
 <tr>
 <td>Synchro Avenir</td>
-<td>Samedi 13 h à 15 h</br>
+<td>Samedi 11 h 30 à 13 h 30</br>
 Mardi 17 h à 19 h</td>
 <td>250 €</td>
 </tr>
 <tr>
 <td>Synchro Duo</td>
 <td>Lundi de 19 h 30 à 21 h 30 </br>
-samedi 11 h 30 à 13 h 30</td>
+Samedi 13 h 00 à 15 h 00</td>
 <td>250 €</td>
 </tr>
 <tr>
 <td>Synchro Juniors compet et Jeunes compet</td>
-<td> mardi 19 h à 21 h</br>
-samedi 9 h à 11 h 30</td>
+<td> Mardi 19 h à 21 h</br>
+Samedi 9 h à 11 h 30</td>
 <td>250 €</td>
 </tr>
 <tr>
 <td>Synchro Jeunes espoirs</td>
-<td>samedi 15 h à 17 h </td>
+<td>Samedi 15 h à 17 h </td>
 <td>250 €</td>
 </tr>
 <tr>
 <td>Synchro Juniors jeunes espoirs</td>
-<td>lundi 19 h à 21 h 45</td>
+<td>Lundi 19 h à 21 h 45</td>
 <td>250 €</td>
 </tr>
 <tr>
 <tr>
 <td>Synchro Nouvelles</td>
-<td>jeudi 18 h 30 à 20 h 30</br>
-samedi 11 h 30 à 13 h</td>
+<td>Jeudi 18 h 30 à 20 h 30</br>
+Samedi 13 h 30 à 15 h</td>
 <td>230 €</td>
 </tr>
 <tr>
+<td>Synchro Adultes</td>
+<td>Samedi 13 h 30 à 15 h</td>
+<td>180 €</td>
+</tr>
+<tr>
 <td>BNSSA</td>
-<td>mercredi 19 h 30 à 21 h 30</td>
+<td>Mercredi 19 h 30 à 21 h 30</td>
 <td>800 €</td>
 </tr>
 </tbody>
