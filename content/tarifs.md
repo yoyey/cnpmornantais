@@ -120,6 +120,12 @@ Samedi 13 h 30 à 15 h</td>
 <td>180 €</td>
 </tr>
 <tr>
+<td>Synchro Sénior compétition</td>
+<td>Lundi de 19 h 30 à 21 h 30 </br>
+Samedi 13 h 00 à 15 h 00</td>
+<td>250 €</td>
+</tr>
+<tr>
 <td>BNSSA</td>
 <td>Mercredi 19 h 30 à 21 h 30</td>
 <td>800 €</td>
@@ -127,5 +133,11 @@ Samedi 13 h 30 à 15 h</td>
 </tbody>
 </table>
 
-Une réduction de 10 € par personne inscrite à compter de 2 personnes.
+Une réduction est accordé à partir de 2 personnes.
+
+* 2 Personnes inscrites : 10 € de réduction
+* 3 personnes inscrites : 20 € de réduction
+* 4 personnes inscrites : 30 € de réduction
+
+
 
