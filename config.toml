@@ -59,8 +59,14 @@ googleAnalytics = "UA-87654846-1"
   Description = "Cercle des nageurs du pays mornantais"
   Author = "cnpm"
   email = "contact@cnpmornantais.fr"
-  Keywords = "natation,mornant,ffn,cnpm"
+  Keywords = "natation,mornant,ffn,cnpm,synchro,natation artistique"
 
 [[params.social]]
   title = "github"
   url = "https://github.com/yoyey/cnpmornantais"
+[[params.social]]
+    title = "facebook"
+    url = "https://www.facebook.com/Synchro-CNPM-102581368152227/"
+[[params.social]]
+    title = "instagram"
+    url = "https://instagram.com/synchrocnpm?igshid=q4zr6t44oxmx"
