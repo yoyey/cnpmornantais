@@ -16,17 +16,16 @@ construction du nageur, afin de réussir aux tests et d'accéder au groupe
 compétition.
 
 <img src="/img/desc_enf.jpg" class="img-responsive img-center" alt="Description">
-
-# Aqua découverte
-Ce créneau s'adresse aux enfants sachant se déplacer sur quelques mètres sans
-aide et souhaitant entrer dans les équipes synchro ou compétition dans les années à venir.
+## En loisirs
+### Aqua découverte
+Ce créneau s’adresse aux enfants ne sachant pas nager et souhaitant entrer dans les équipes synchro ou compétition dans les années à venir.
 
 **Exigence CNPM pour intégrer le groupe:**
 Les enfants sont accueillis à partir de 5 ans.
 
-*Entrainement:* 1 fois par semaine (samedi de 17 h à 17 h 45)
+*Entrainement:* 1 fois par semaine (mercredi de 15 h à 16 h ou samedi de 17 h à 18 h)
 
-# Etape 1 : Le Sauv’nage (ENF1)
+### Etape 1 : Le Sauv’nage (ENF1)
 
 <img src="/img/sauvnage.jpg" class="img-responsive img-center" alt="Description">
 
@@ -46,9 +45,16 @@ plusieurs objectifs sont à atteindre :
 **Exigence CNPM pour intégrer le groupe:**
 Savoir se déplacer sur 15 m minimum au grand bain sans aide
 
-*Entrainement:* 1 fois par semaine ( jeudi de 17 h à 17 h 45 ou de 17 h45 à 18 h 30)
+*Entraînement:* 1 fois par semaine
 
-# Etape 2 : Pass’sports de l’eau (ENF2)
+* <u>Pour les débutants</u> : jeudi de 17 h à 17 h 45
+* <u>Pour les débutants avancés</u> : jeudi de 17 h45 à 18 h 30
+
+L’horaire définitif sera défini lors de la 1ère séance pendant laquelle
+l’entraîneur attribuera le groupe selon le niveau de l’enfant.
+Cette 1ère séance durera 1h30 pour tous les enfants.
+
+### Etape 2 : Pass’sports de l’eau (ENF2)
 
 <img src="/img/passeport.jpg" class="img-responsive img-center" alt="Description">
 
@@ -63,17 +69,14 @@ Valider le pass'sport de l'eau suppose d'avoir réussi au moins trois de ces 
 **Exigence CNPM pour intégrer le groupe:** Avoir son sauv'nage ou savoir se
 déplacer sur 15 m sur le ventre et 15 m sur le dos au grand bain.
 
-*Entrainement:* 2 fois par semaine ( lundi de 17 h à 18 h et le mercredi de 15 h à 16 h 30)
+*Entrainement:* 2 fois par semaine ( lundi de 17 h à 18 h et le mercredi de 16 h à 17 h )
 
-# Etape 3 : Pass’compétition (ENF3)
+### Etape 3 : Pass’compétition (ENF3)
 
 <img src="/img/passcompet.jpg" class="img-responsive img-center" alt="Description">
 
 Le Pass'compétition est la dernière étape à franchir pour pouvoir participer aux
-compétitions. Pour valider cet ultime test, il faut nager un 100 mètres 4 nages
-dans l'ordre défini par la FINA (Fédération Internationale de Natation),
-soit : papillon, dos, brasse, crawl.
-Différents points sont observés et jugés pendant ce test:
+compétitions. Pour valider cet ultime test,il faut se référer aux critères du [« Nouveau Pass Compétition »](/pdf/nouveau_pass_competition_2020.pdf). Différents points sont observés et jugés pendant ce test :
 
 * Se rendre à la chambre d'appel et prendre sa fiche de course
 * Se positionner derrière sa ligne d'eau et se préparer
@@ -90,10 +93,10 @@ les compétitions.
 **Exigence CNPM pour intégrer le groupe:**
 Avoir son pass'sports de l'eau ou savoir nager 2 nages sur 50 m.
 
-*Entrainement:* 2 fois par semaine ( mercredi de 16 h 30 à 18 h et le vendredi de
+*Entrainement:* 2 fois par semaine ( mercredi de 17 h à 18 h et le vendredi de
 17 h à 18 h)
-
-# ETAPE 4 : Groupe Compétition 1, 2,3.
+## En compétition
+### ETAPE 4 : Groupe Compétition 1, 2,3.
 
 Cette section est le prolongement de l'école de natation : après avoir validé
 les 3 tests obligatoires, le nageur peut enfin participer aux compétitions.
@@ -107,33 +110,33 @@ passera en section perfectionnement.
 **Exigence CNPM pour intégrer le groupe:**
 Avoir son pass'compétition ou savoir nager 100 m 4 nages .
 
-*Entrainement:* 3 fois par semaine pour le groupe compétition 1
-(lundi, mercredi et vendredi de 18h à 19h30)
+*Entrainement:*
 
-2 fois par semaine pour le groupe compétition 2
-(lundi et vendredi de 18h à 19h30)
+* <u>Pour le groupe compétition 1</u> : 4 fois par semaine (lundi, mercredi et
+vendredi de 18 h à 19 h 30 + un entraînement à sec le jeudi de 18 h à 19 h 30)
+* <u>Pour le groupe compétition 2</u> : 2 fois par semaine (lundi et vendredi de 18
+h à 19 h 30)
+* <u>Pour le groupe compétition 3</u> : 1 fois par semaine (jeudi de 18 h à 19 h 30)
 
-1 fois par semaine pour le groupe compétition 3
-(jeudi de 18h à 19h30)
+## Autres sections (En loisirs ou en compétition)
+### Maître /Prépa. BAC
+Ce groupe s’adresse aux adultes qui souhaitent garder la forme, et aux lycéens
+souhaitant préparer le bac et l’option natation.
 
-# Maître /Prépa. BAC
-Ce groupe s'adresse aux adultes qui souhaitent garder la forme, et aux lycéens 
-souhaitant préparer le bac et l'option natation.
-
-Pour les adultes, l'objectif est de passer un bon moment en nageant et en 
-profitant des conseils de l'entraîneur. Il y a possibilité de participer aux
+Pour les adultes, l’objectif est de passer un bon moment en nageant et en 
+profitant des conseils de l’entraîneur. Il y a possibilité de participer aux
 compétitions pour ceux qui le veulent.
 
-* Groupe maître compétition 1:
+*Entrainement:*
 
-*Entrainement:* 2 fois par semaine  (mercredi de 19 h 30 à 21 h 30 et le jeudi de 19 h 30 à 20 h 30)
+* <u>Groupe maître compétition 1 </u>: s’adresse à des bons nageurs. 2 fois par
+semaine (mercredi de 19 h 30 à 21 h 30 avec Coach et le jeudi de 19 h 30 à 20 h 30
+avec entraînement au tableau).
+* <u>Groupe maître compétition 2 </u>: s’adresse à des nageurs débutants.
+1 fois par semaine (jeudi de 19 h 30 à 20 h 30 avec Coach)
 
-* Groupe maître compétition 2:
-
-*Entrainement:* 1 fois par semaine  (jeudi de 19h30 à 20h30)
-
-# BNSSA
-Acompagement au BNSSA (préparation du Brevet national de sécurité et de
+### BNSSA
+Accompagement au BNSSA (préparation du Brevet national de sécurité et de
 sauvetage aquatique).
 
 Ce créneau s'adresse aux jeunes qui souhaitent passer le BNSSA.
@@ -141,7 +144,13 @@ Il sagit de préparer les candidats aux épreuves nécessaires à l'obtention du
 diplôme. ( pse1 / pse2 / épreuves physiques et théoriques.)
 
 **Exigence CNPM pour intégrer le groupe:**
-Avoir 17 ans minimum et nager au moins 400 m sans arrêt. Pour les nouveaux
-licenciés, un test est obligatoire.
+A partir de 16 ans sachant qu’il faut avoir 17 ans minimum à la date de l’examen
+et nager au moins 400 m sans arrêt. Pour les nouveaux licenciés, un test est
+obligatoire.
 
 *Entrainement:* 1 fois par semaine. ( mercredi de 19h30 à 21h30)
+
+### 3S
+Section sportive natation Collège St Thomas d’Aquin de Mornant
+*Entrainement:* 1 ou 2 fois par semaine (mardi de 16 h à 17 h et/ou jeudi de
+16 h à 17 h)
