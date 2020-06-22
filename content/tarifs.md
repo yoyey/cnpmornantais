@@ -17,6 +17,9 @@ Nous avons réalisé une aide afin de faciliter l'inscription.
 Vous pouvez si vous le souhaitez faire un virement pour l'inscription.
 [IBAN](/pdf/rib_cnpmornantais.pdf)
 
+La FFN propose une aide pour savoir si vous devez donner un certificat médical.
+[Mémo](/img/memo_certificat_medical.png)
+
 Nos tarifs
 <table class="table table-striped">
 <thead>
@@ -28,8 +31,13 @@ Nos tarifs
 </thead>
 <tbody>
 <tr>
-<td>Aqua découverte</td>
-<td>Samedi 17 h à 17h45 h</td>
+<td>Aqua découverte 1</td>
+<td>Mercredi 15 h à 16 h</td>
+<td>200 € à l'année</td>
+</tr>
+<tr>
+<td>Aqua découverte 2</td>
+<td>Samedi 17 h à 18 h</td>
 <td>200 € à l'année</td>
 </tr>
 <tr>
@@ -44,12 +52,12 @@ Nos tarifs
 <tr>
 <td>Pass'sports de l'eau</td>
 <td>Lundi 17 h à 18 h </br>
-Mercredi 15 à 16 h 30</td>
+Mercredi 16 h à 17 h</td>
 <td>220 €</td>
 </tr>
 <tr>
 <td>Pass'compétition</td>
-<td>Mercredi 16 h 30 à 18 h</br>
+<td>Mercredi 17 h à 18 h</br>
 Vendredi 17 h à 18 h</td>
 <td>220 €</td>
 </tr>
@@ -58,16 +66,16 @@ Vendredi 17 h à 18 h</td>
 <td>Lundi 18 h à 19 h 30</br>
 Mercredi 18 h à 19 h 30</br>
 Vendredi 18 h à 19 h 30</td>
-<td>250 €</td>
+<td>270 €</td>
 <tr>
 <td>Groupe compétition 2</td>
 <td>Lundi 18 h à 19 h 30</br>
 Vendredi 18 h à 19 h 30</td>
-<td>250 €</td>
+<td>270 €</td>
 <tr>
 <td>Groupe compétition 3</td>
 <td>Jeudi 18 h à 19 h 30</td>
-<td>220€</td>
+<td>240€</td>
 <tr>
 <td>Groupe maître 1 compétition</td>
 <td>Mercredi 19 h 30 à 21 h 30</br>
@@ -80,49 +88,47 @@ Jeudi 19 h 30 à 20 h 30</td>
 <td>210 €</td>
 </tr>
 <tr>
-<td>Synchro Avenir</td>
-<td>Samedi 11 h 30 à 13 h 30</br>
-Mardi 17 h à 19 h</td>
-<td>250 €</td>
-</tr>
+<td>Babies Synchro</td>
+<td>Mardi de 17 h à 18 h 30</td>
+<td>230 €</td>
 <tr>
-<td>Synchro Duo</td>
-<td>Lundi de 19 h 30 à 21 h 30 </br>
-Samedi 13 h 00 à 15 h 00</td>
-<td>250 €</td>
-</tr>
-<tr>
-<td>Synchro Juniors compet et Jeunes compet</td>
-<td> Mardi 19 h à 21 h</br>
-Samedi 9 h à 11 h 30</td>
-<td>250 €</td>
-</tr>
-<tr>
-<td>Synchro Jeunes espoirs</td>
-<td>Samedi 15 h à 17 h </td>
-<td>250 €</td>
-</tr>
-<tr>
-<td>Synchro Juniors jeunes espoirs</td>
-<td>Lundi 19 h à 21 h 45</td>
-<td>250 €</td>
-</tr>
-<tr>
-<tr>
-<td>Synchro Nouvelles</td>
-<td>Jeudi 18 h 30 à 20 h 30</br>
-Samedi 13 h 30 à 15 h</td>
+<td>Débutants Synchro</td>
+<td>Jeudi 19 h à 20 h 30</br>
+Samedi de 14 h à 15 h 30</td>
 <td>230 €</td>
 </tr>
 <tr>
-<td>Synchro Adultes</td>
-<td>Samedi 13 h 30 à 15 h</td>
-<td>180 €</td>
+<td>Débutants Séniors</td>
+<td>Lundi de 20 h 15 à 21 h 45</td>
+<td>230 €</td>
 </tr>
 <tr>
-<td>Synchro Sénior compétition</td>
-<td>Lundi de 19 h 30 à 21 h 30 </br>
-Samedi 13 h 00 à 15 h 00</td>
+<td>Avenir Espoirs</td>
+<td> Mardi 18 h 30 à 20 h</br>
+Vendredi entraînement à sec de 19 h à 20 h</br>
+Samedi 11 h 30 à 13 h 30</td>
+<td>270 €</td>
+</tr>
+<tr>
+<td>Juniors Jeunes Espoirs</td>
+<td>Lundi de 19 h à 20 h 15</br>
+Vendredi entrainement à sec de 19 h à 20 h</br>
+Samedi de 15 h 30 à 17 h</td>
+<td>270 €</td>
+</tr>
+<tr>
+<td>Juniors Jeunes Compétitions</td>
+<td>Mardi 19 h 30 à 21 h 30</br>
+Vendredi entraînement à sec de 20 h à 21 h</br>
+Samedi de 9 h à 11 h 30</td>
+<td>270 €</td>
+</tr>
+<tr>
+<tr>
+<td>Séniors Competitions</td>
+<td>Lundi de 19 h 30 à 21 h 30</br>
+Mardi de 19 h 30 à  21 h 30 </br>
+Samedi 11 h 30 à 13 h 30</td>
 <td>250 €</td>
 </tr>
 <tr>
@@ -138,6 +144,4 @@ Une réduction est accordé à partir de 2 personnes.
 * 2 Personnes inscrites : 10 € de réduction
 * 3 personnes inscrites : 20 € de réduction
 * 4 personnes inscrites : 30 € de réduction
-
-
 
