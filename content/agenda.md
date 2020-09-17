@@ -1,18 +1,21 @@
 +++
 date = "2017-11-12T08:51:50+02:00"
-title = "Saison 2018-2019"
+title = "Saison 2020-2021"
 +++
 
-Retrouvez sur cette page les dates clés de la saison 2019-2020.....
+Retrouvez sur cette page les dates clés de la saison 2020-2021.....
 
-Vous pouvez télécharger le document [d'occupation du bassin 2019-2020](/pdf/planning_2019-2020.pdf)
 
 Vous pouvez aussi utiliser notre calendrier partagé :
 [Agenda](https://calendar.google.com/calendar?cid=Y25wbW9ybmFudGFpc0BnbWFpbC5jb20)
 
-# SAISON 2019-2020 :
+# SAISON 2020-2021 :
 
-Début des Cours : Mercredi 18 septembre 2019,
+Ouverture de la piscine à partir du mercredi 16 septembre : les cours reprendront
+à partir du mercredi 16 septembre sous réserve de la mise en place du protocole
+sanitaire à destination des groupes
+
+[Protocole sanitaire](/pdf/CNPM_Protocole.pdf)
 
 *Pas d'entrainement pendant les vacances scolaires*
 

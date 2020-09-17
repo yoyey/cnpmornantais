@@ -14,7 +14,7 @@ googleAnalytics = "UA-87654846-1"
 # Main menu
 
 [[menu.main]]
-    name = "Saison 2019-2020"
+    name = "Saison 2020-2021"
     url  = "/agenda/"
     weight = 1
 
