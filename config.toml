@@ -9,6 +9,9 @@ paginate = 10
 copyright = "Code released under the Apache 2.0 license."
 googleAnalytics = "UA-87654846-1"
 
+[markup.goldmark.renderer]
+  unsafe= true
+
 [menu]
 
 # Main menu
