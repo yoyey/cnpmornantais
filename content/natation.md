@@ -16,6 +16,7 @@ construction du nageur, afin de réussir aux tests et d'accéder au groupe
 compétition.
 
 <img src="/img/desc_enf.jpg" class="img-responsive img-center" alt="Description">
+
 ## En loisirs
 ### Aqua découverte
 Ce créneau s’adresse aux enfants ne sachant pas nager et souhaitant entrer dans les équipes synchro ou compétition dans les années à venir.
@@ -23,7 +24,8 @@ Ce créneau s’adresse aux enfants ne sachant pas nager et souhaitant entrer da
 **Exigence CNPM pour intégrer le groupe:**
 Les enfants sont accueillis à partir de 5 ans.
 
-*Entrainement:* 1 fois par semaine (mercredi de 15 h à 16 h ou samedi de 17 h à 18 h)
+*Entrainement:* 1 fois par semaine (groupe 1 : mercredi de 15 h à 16 h,
+groupe 2 : samedi de 9 h 30 à 10 h 30, groupe 3 : samedi 11 h a 12 h)
 
 ### Etape 1 : Le Sauv’nage (ENF1)
 
@@ -112,8 +114,8 @@ Avoir son pass'compétition ou savoir nager 100 m 4 nages .
 
 *Entrainement:*
 
-* <u>Pour le groupe compétition 1</u> : 4 fois par semaine (lundi, mercredi et
-vendredi de 18 h à 19 h 30 + un entraînement à sec le jeudi de 18 h à 19 h 30)
+* <u>Pour le groupe compétition 1</u> : 3-4 fois par semaine (lundi, mercredi,
+jeudi et vendredi de 18 h à 19 h 30)
 * <u>Pour le groupe compétition 2</u> : 2 fois par semaine (lundi et vendredi de 18
 h à 19 h 30)
 * <u>Pour le groupe compétition 3</u> : 1 fois par semaine (jeudi de 18 h à 19 h 30)

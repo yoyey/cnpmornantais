@@ -15,10 +15,14 @@ Nous avons réalisé une aide afin de faciliter l'inscription.
 [Aide](/pdf/inscription_CNPM.pdf)
 
 Vous pouvez si vous le souhaitez faire un virement pour l'inscription.
-[IBAN](/pdf/rib_cnpmornantais.pdf)
 
 La FFN propose une aide pour savoir si vous devez donner un certificat médical.
 [Mémo](/img/memo_certificat_medical.png)
+
+Voici les documents administartifs pour la saison :
+
+* [Les mineurs](/pdf/2021-2022FormulaireMineurs.pdf)
+* [Les majeurs](/pdf/2021-2022FormulaireMajeurs.pdf)
 
 Nos tarifs
 <table class="table table-striped">
@@ -37,7 +41,12 @@ Nos tarifs
 </tr>
 <tr>
 <td>Aqua découverte 2</td>
-<td>Samedi 17 h à 18 h</td>
+<td>Samedi 9 h 30 à 10 h 30</td>
+<td>200 € à l'année</td>
+</tr>
+<tr>
+<td>Aqua découverte 3</td>
+<td>Samedi 11 h à 12 h</td>
 <td>200 € à l'année</td>
 </tr>
 <tr>
@@ -63,13 +72,19 @@ Vendredi 17 h à 18 h</td>
 </tr>
 <tr>
 <td>Groupe compétition 1</td>
-<td>Lundi 18 h à 19 h 30</br>
+<td>
+3-4 entraînements parmi :</br>
+Lundi 18 h à 19 h 30</br>
 Mercredi 18 h à 19 h 30</br>
+Jeudi 18 h à 19 h 30</br>
 Vendredi 18 h à 19 h 30</td>
 <td>270 €</td>
 <tr>
 <td>Groupe compétition 2</td>
-<td>Lundi 18 h à 19 h 30</br>
+<td>
+2 entraînements parmi :</br>
+Lundi 18 h à 19 h 30</br>
+Mercredi 18 h à 19 h 30</br>
 Vendredi 18 h à 19 h 30</td>
 <td>270 €</td>
 <tr>
@@ -88,49 +103,50 @@ Jeudi 19 h 30 à 20 h 30</td>
 <td>210 €</td>
 </tr>
 <tr>
-<td>Babies Synchro</td>
-<td>Mardi de 17 h à 18 h 30</td>
-<td>230 €</td>
-<tr>
-<td>Débutants Synchro</td>
-<td>Jeudi 19 h à 20 h 30</br>
-Samedi de 14 h à 15 h 30</td>
+<td>Nage en eau libre</td>
+<td>Mardi 19 h 30 à 21 h 30</td>
 <td>230 €</td>
 </tr>
 <tr>
-<td>Débutants Séniors</td>
+<td>Babies Synchro</td>
+<td>Mardi de 17 h à 18 h</td>
+<td>230 €</td>
+<tr>
+<td>Nouvelles Synchro "têtards" 1</td>
+<td>mardi 18 h à 19 h 30</td>
+<td>230 €</td>
+</tr>
+<tr>
+<td>Nouvelles Synchro "têtards" 2</td>
+<td>samedi 15 h 30 à 17 h</td>
+<td>230 €</td>
+</tr>
+<tr>
+<td>Nouvelles Synchro "grenouille"</td>
+<td>jeudi 18 h 30 à 20 h</br>
+samedi 12 h à 13 h 30</td>
+<td>230 €</td>
+</tr>
+<tr>
+<td>Espoirs</td>
+<td>Lundi 19 h à 20 h 15</br>
+Vendredi entraînement à sec de 19 h à 20 h</br>
+Samedi 14 h à 15 h 30</td>
+<td>270 €</td>
+</tr>
+<tr>
+<td>Compétitions</td>
+<td>Mardi 19 h 30 à 21 h 30</br>
+Vendredi entraînement à sec de 20 h à 21 h</br>
+Samedi de 9 h à 11 h</td>
+<td>270 €</td>
+</tr>
+<tr>
+<td>Séniors</td>
 <td>Lundi de 20 h 15 à 21 h 45</td>
 <td>230 €</td>
 </tr>
 <tr>
-<td>Avenir Espoirs</td>
-<td> Mardi 18 h 30 à 20 h</br>
-Vendredi entraînement à sec de 19 h à 20 h</br>
-Samedi 11 h 30 à 13 h 30</td>
-<td>270 €</td>
-</tr>
-<tr>
-<td>Juniors Jeunes Espoirs</td>
-<td>Lundi de 19 h à 20 h 15</br>
-Vendredi entrainement à sec de 19 h à 20 h</br>
-Samedi de 15 h 30 à 17 h</td>
-<td>270 €</td>
-</tr>
-<tr>
-<td>Juniors Jeunes Compétitions</td>
-<td>Mardi 19 h 30 à 21 h 30</br>
-Vendredi entraînement à sec de 20 h à 21 h</br>
-Samedi de 9 h à 11 h 30</td>
-<td>270 €</td>
-</tr>
-<tr>
-<tr>
-<td>Séniors Competitions</td>
-<td>Lundi de 19 h 30 à 21 h 30</br>
-Mardi de 19 h 30 à  21 h 30 </br>
-Samedi 11 h 30 à 13 h 30</td>
-<td>250 €</td>
-</tr>
 <tr>
 <td>BNSSA</td>
 <td>Mercredi 19 h 30 à 21 h 30</td>
@@ -143,5 +159,4 @@ Une réduction est accordé à partir de 2 personnes.
 
 * 2 Personnes inscrites : 10 € de réduction
 * 3 personnes inscrites : 20 € de réduction
-* 4 personnes inscrites : 30 € de réduction
 

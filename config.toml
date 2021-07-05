@@ -3,7 +3,7 @@ title = "Cercle des Nageurs du Pays Mornantais"
 languageCode = "fr-fr"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "fr"
-theme = "cnpm"
+theme = ["cnpm"]
 canonifyurls = true
 paginate = 10
 copyright = "Code released under the Apache 2.0 license."
