@@ -137,6 +137,13 @@ avec entraînement au tableau).
 * <u>Groupe maître compétition 2 </u>: s’adresse à des nageurs débutants.
 1 fois par semaine (jeudi de 19 h 30 à 20 h 30 avec Coach)
 
+### Nage en eau libre : NOUVEAUTE 2021
+Ce groupe s’adresse aux jeunes de plus de 16 ans et aux adultes qui souhaitent pratiquer la nage avec palmes pour garder la forme et être à l’aise lors de sorties en eau libre.
+
+L’objectif est de passer un bon moment en nageant et en profitant des conseils de l’entraîneur. Une ou plusieurs sorties pourront être organisées (coût en supplément).
+
+*Entrainement :* 1 fois par semaine (mardi de 19 h 30 à 21 h 30)
+
 ### BNSSA
 Accompagement au BNSSA (préparation du Brevet national de sécurité et de
 sauvetage aquatique).
