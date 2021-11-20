@@ -22,8 +22,8 @@ $(function() {
             var message = $("textarea#message").val();
             var subject = $("input#_subject").val();
             var firstName = name; // For Success/Failure Message
-            var sendEmail ="https://formspree.io/" +
-              $("button.btn.btn-default").attr("data-sendemail");
+            var sendEmail ="https://formspree.io/f/" +
+              $("button.btn.btn-default").attr("data-formspree");
             // Check for white space in name for Success/Fail message
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
